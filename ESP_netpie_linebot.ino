@@ -6,11 +6,11 @@ const char* ssid     = "USER1"; //change this to your SSID
 const char* password = "88888888"; //change this to your PASSWORD
 
 const char* host = "http://homewisdom.herokuapp.com/bot.php";//change this to your linebot server ex.http://numpapick-linebot.herokuapp.com/bot.php
-#define APPID   "WISDOMLINE"     //change this to your APPID
-#define KEY     "nTlh0KEizxd2Z1q"     //change this to your KEY
-#define SECRET  "4WfgeA1v08BrYlsPzGpLLWlVd"     //change this to your SECRET
+#define APPID   "wisdomlinebot"     //change this to your APPID
+#define KEY     "iNFD2X2dxVmAT6Q"     //change this to your KEY
+#define SECRET  "JHW25fHzGzcfrANhoXxqhuvzh"     //change this to your SECRET
 
-#define ALIAS   "NodeNoTNOS" //set name of drvice
+#define ALIAS   "esp8266line" //set name of drvice
 #define TargetWeb "switch" //set target name of web
 
 WiFiClient client;
